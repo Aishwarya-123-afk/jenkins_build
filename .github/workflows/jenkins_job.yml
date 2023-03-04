@@ -13,5 +13,6 @@ jobs:
         user: "Aishwarya"
         token: 11db3ff04cd6ddcc18292ffab37aff9f90
         job: "pipeline"
+        command_timeout: 200m
       env:
            PORT: 8080
